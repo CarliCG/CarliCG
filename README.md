@@ -1,9 +1,9 @@
 # 💫 About Me:
-¡Hola! 👋 Soy Carla, apasionada desarrolladora Frontend con interes en crear experiecias web atractivas y funcionales. Mi enfoque principal es transformar ideas creativas en código sólido y amigable para el usuario.
+¡Hola! 👋 Soy Carla, apasionada desarrolladora web con interes en crear experiecias web atractivas y funcionales. Mi enfoque principal es transformar ideas creativas en código sólido y amigable para el usuario.
 
 =======
 
-Hello! 👋 I'm Carla, a passionate Frontend developer with an interest in creating engaging and functional web experiences. My main focus is on transforming creative ideas into robust and user-friendly code.
+Hello! 👋 I'm Carla, a passionate web developer with an interest in creating engaging and functional web experiences. My main focus is on transforming creative ideas into robust and user-friendly code.
 
 
 ## 🌐 Socials:
